@@ -4,7 +4,7 @@ Coursera Course: Getting and Cleaning Data
 This Repository contains the following files:
 * `README.md`
 * `run_analysis.R`
-* `CodeBook.md`
+* `codebook.md`
 
 Please refer to `run_analysis.R` and `codebook.md` in this repository for more detailes about the analysis scripts.
 
